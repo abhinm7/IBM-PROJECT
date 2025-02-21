@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img_cmp.webp') no-repeat;
+    background: url('https://s3.au-syd.cloud-object-storage.appdomain.cloud/tomatofooddelivery-donotdelete-pr-jxydgrdalldev6/header_img_cmp.webp') no-repeat;
     background-size: contain;
     position: relative;
 }
